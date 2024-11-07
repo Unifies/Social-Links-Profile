@@ -33,7 +33,7 @@ body {
 
 .profileContainer{
     width: 21rem;
-    margin: 0 auto;
+    margin: 9rem auto 2rem;
     padding: 2rem 0;
     background-color: var(--Grey-800);
     border-radius: 10px;
